@@ -5,5 +5,8 @@ public class boolean1 {
       {
         boolean a=true;
             int b=24;
+            int c=23;
+            int d=b+c;
+            System.out.println(d);
       }
 }
